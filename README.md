@@ -1,7 +1,7 @@
 ## C Language Questions
 
 ### Introduction
-1. What is the history of C language?
+1. [What is the history of C language?](https://medium.com/@milankathiriya/the-history-of-the-c-language-b9deb0155bf0)
 2. What is the importance of C language?
 3. Explain difference between Compiler and Interpreter.
 4. What is Escape Sequence Characters? Explain in detail with example.
