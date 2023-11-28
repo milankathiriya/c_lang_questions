@@ -4,7 +4,7 @@
 1. [What is Programming?](https://medium.com/@milankathiriya/what-is-programming-fe7a0dc39a7a)
 2. [What is the history of C language?](https://medium.com/@milankathiriya/the-history-of-the-c-language-b9deb0155bf0)
 3. [What is the importance of C language?](https://medium.com/@milankathiriya/importance-features-of-c-language-7fe80a1a754b)
-4. Explain difference between Compiler and Interpreter.
+4. [Explain difference between Compiler and Interpreter.](https://medium.com/@milankathiriya/translator-compiler-interpreter-522ce6b75e55)
 5. What is Escape Sequence Characters? Explain in detail with example.
 
 ---
