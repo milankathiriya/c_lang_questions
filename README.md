@@ -113,280 +113,320 @@
 ---
 
 ### Patterns
-Q.1 <br>
+**Q.1** <br>
 1 2 3 4 5 <br>
 1 2 3 4 5 <br>
 1 2 3 4 5 <br>
 1 2 3 4 5 <br>
 1 2 3 4 5 <br>
 
-Q.2 <br>
+**Q.2** <br>
 1 <br>
 1 2 <br>
 1 2 3 <br>
 1 2 3 4 <br>
 1 2 3 4 5 <br>
 
-Q.3 <br>
+**Q.3** <br>
 5 <br>
 5 4 <br>
 5 4 3 <br>
 5 4 3 2 <br>
 5 4 3 2 1 <br>
 
-Q.4 <br>
+**Q.4** <br>
 1 2 3 4 5 <br>
 1 2 3 4 <br>
 1 2 3 <br>
 1 2 <br>
 1 <br>
 
-Q.5 <br>
+**Q.5** <br>
 5 4 3 2 1 <br>
 5 4 3 2 <br>
 5 4 3 <br>
 5 4 <br>
 5 <br>
 
-Q.6 <br>
+**Q.6** <br>
 1 2 3 4 5 <br>
 2 3 4 5 <br>
 3 4 5 <br>
 4 5 <br>
 5 <br>
 
-Q.7 <br>
+**Q.7** <br>
 5 4 3 2 1 <br>
 4 3 2 1 <br>
 3 2 1 <br>
 2 1 <br>
 1 <br>
 
-Q.8 <br>
+**Q.8** <br>
 1 <br>
 1 1 <br>
 1 1 1 <br>
 1 1 1 1 <br>
 1 1 1 1 1 <br>
 
-Q.9 <br>
+**Q.9** <br>
 5 <br>
 5 5 <br>
 5 5 5 <br>
 5 5 5 5 <br>
 5 5 5 5 5 <br>
 
-Q.10 <br>
+**Q.10** <br>
 1 1 1 1 1 <br>
 1 1 1 1 <br>
 1 1 1 <br>
 1 1 <br>
 1 <br>
 
-Q.11 <br>
+**Q.11** <br>
 5 5 5 5 5 <br>
 5 5 5 5 <br>
 5 5 5 <br>
 5 5 <br>
 5 <br>
 
-Q.12 <br>
+**Q.12** <br>
 1 <br>
 2 2 <br>
 3 3 3 <br>
 4 4 4 4 <br>
 5 5 5 5 5 <br>
 
-Q.13 <br>
+**Q.13** <br>
 5 <br>
 4 4 <br>
 3 3 3 <br>
 2 2 2 2 <br>
 1 1 1 1 1 <br>
 
-Q.14 <br>
+**Q.14** <br>
 1 1 1 1 1 <br>
 2 2 2 2 <br>
 3 3 3 <br>
 4 4 <br>
 5 <br>
 
-Q.15 <br>
+**Q.15** <br>
 5 5 5 5 5 <br>
 4 4 4 4 <br>
 3 3 3 <br>
 2 2 <br>
 1 <br>
 
-Q.16 <br>
+**Q.16** <br>
 A A A A A <br>
 B B B B B <br>
 C C C C C <br>
 D D D D D <br>
 E E E E E <br>
 
-Q.17 <br>
+**Q.17** <br>
 A <br>
 A B <br>
 A B C <br>
 A B C D <br>
 A B C D E <br>
 
-Q.18 <br>
+**Q.18** <br>
 E <br>
 E D <br>
 E D C <br>
 E D C B <br>
 E D C B A <br>
 
-Q.19 <br>
+**Q.19** <br>
 A B C D E <br>
 A B C D <br>
 A B C <br>
 A B <br>
 A <br>
 
-Q.20 <br>
+**Q.20** <br>
 E D C B A <br>
 E D C B <br>
 E D C <br>
 E D <br>
 E <br>
 
-Q.21 <br>
+**Q.21** <br>
 A B C D E <br>
 B C D E <br>
 C D E <br>
 D E <br>
 E <br>
 
-Q.22 <br>
+**Q.22** <br>
 E D C B A <br>
 D C B A <br> 
 C B A <br>
 B A <br>
 A <br>
 
-Q.23 <br>
+**Q.23** <br>
 A <br>
 A A <br>
 A A A <br>
 A A A A <br>
 A A A A A <br>
 
-Q.24 <br>
+**Q.24** <br>
 E <br>
 E E <br>
 E E E <br>
 E E E E <br>
 E E E E E <br>
 
-Q.25 <br>
+**Q.25** <br>
 A A A A A <br>
 A A A A <br>
 A A A <br>
 A A <br>
 A <br>
 
-Q.26 <br>
+**Q.26** <br>
 E E E E E <br>
 E E E E <br>
 E E E <br>
 E E <br>
 E <br>
 
-Q.27 <br>
+**Q.27** <br>
 A <br>
 B B <br>
 C C C <br>
 D D D D <br>
 E E E E E <br>
 
-Q.28 <br>
+**Q.28** <br>
 E <br>
 D D <br>
 C C C <br>
 B B B B <br>
 A A A A A <br>
 
-Q.29 <br>
+**Q.29** <br>
 A A A A A <br>
 B B B B <br>
 C C C <br>
 D D <br>
 E <br>
 
-Q.30 <br>
+**Q.30** <br>
 E E E E E <br>
 D D D D <br>
 C C C <br>
 B B <br>
 A <br>
 
-Q.31 <br>
+**Q.31** <br>
 \* * * * * <br>
 \* * * * * <br>
 \* * * * * <br>
 \* * * * * <br>
 \* * * * * <br>
 
-Q.32 <br>
-* <br>
-* * <br>
-* * * <br>
-* * * * <br>
-* * * * * <br>
+**Q.32** <br>
+\* <br>
+\* * <br>
+\* * * <br>
+\* * * * <br>
+\* * * * * <br>
 
-Q.33 <br>
-* * * * * <br>
-* * * * <br>
-* * * <br>
-* * <br>
-* <br>
+**Q.33** <br>
+\* * * * * <br>
+\* * * * <br>
+\* * * <br>
+\* * <br>
+\* <br>
 
-Q.34 <br>
+**Q.34** <br>
 1 2 3 4 5 <br>
 6 7 8 9 10 <br>
 11 12 13 14 15 <br>
 16 17 18 19 20 <br>
 21 22 33 44 55 <br>
 
-Q.35 <br>
+**Q.35** <br>
 1 <br>
 2 3 <br>
 4 5 6 <br>
 7 8 9 10 <br>
 11 12 13 14 15 <br>
 
-Q.36 <br>
+**Q.36** <br>
 15 <br>
 14 13 <br>
 12 11 10 <br>
 9 8 7 6 <br>
 5 4 3 2 1 <br>
 
-Q.37 <br>
+**Q.37** <br>
 1 2 3 4 5 <br>
 6 7 8 9 <br>
 10 11 12 <br>
 13 14 <br>
 15 <br>
 
-Q.38 <br>
+**Q.38** <br>
 1 <br>
 11 11 <br>
 121 121 121 <br>
 1331 1331 1331 1331 <br>
 
-Q.40 <br>
+**Q.39** <br>
 1331 1331 1331 1331 <br>
 121 121 121 <br>
 11 11 <br>
 1 <br>
 
-Q.41 <br>
-+ <br>
-+ - <br>
-+ - + <br>
-+ - + - <br>
-+ - + - + <br>
+**Q.40** <br>
+\+ <br>
+\+ - <br>
+\+ - + <br>
+\+ - + - <br>
+\+ - + - + <br>
+
+**Q.41** <br>
+\+ <br>
+\- - <br>
+\+ + + <br>
+\- - - - <br>
+\+ + + + + <br>
+
+**Q.42** <br>
+1 <br>
+0 1 <br>
+1 0 1 <br>
+0 1 0 1 <br>
+1 0 1 0 1 <br>
+
+**Q.43** <br>
+0 1 0 1 0 <br>
+1 0 1 0 <br>
+0 1 0 <br>
+1 0 <br>
+0 <br>
+
+**Q.44** <br>
+@ <br>
+\# # <br>
+@ @ @ <br>
+\# # # # <br>
+@ @ @ @ @ <br>
+
+**Q.45** <br>
+RW1 <br>
+RW2 RW2 <br>
+RW3 RW3 RW3 <br>
+RW4 RW4 RW4 RW4 <br>
+RW5 RW5 RW5 RW5 RW5 <br>
+
+**Q.46** <br>
+Akbar Birbal Akbar Birbal Akbar Birbal <br>
+Akbar Birbal Akbar Birbal <br>
+Akbar Birbal <br>
