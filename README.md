@@ -116,6 +116,7 @@
 
 <table>
   <tbody>
+    <caption>Without Space Pattern</caption>
     <tr>
       <td>
         <b>Q.1</b> <br>
