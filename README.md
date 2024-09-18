@@ -475,7 +475,7 @@
         \# # # # <br>
         @ @ @ @ @ <br>
       </td>
-      <td>
+      <td colspan="2">
         <b>Q.45</b> <br>
         RW1 <br>
         RW2 RW2 <br>
@@ -483,7 +483,7 @@
         RW4 RW4 RW4 RW4 <br>
         RW5 RW5 RW5 RW5 RW5 <br>
       </td>
-      <td>
+      <td colspan="2">
         <b>Q.46</b> <br>
         Akbar Birbal Akbar Birbal Akbar Birbal <br>
         Akbar Birbal Akbar Birbal <br>
