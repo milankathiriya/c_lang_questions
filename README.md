@@ -173,6 +173,8 @@
         2 1 <br>
         1 <br>
       </td>
+    </tr>
+    <tr>
       <td>
         <b>Q.8</b> <br>
         1 <br>
@@ -197,8 +199,6 @@
         1 1 <br>
         1 <br>
       </td>
-    </tr>
-    <tr>
       <td>
         <b>Q.11</b> <br>
         5 5 5 5 5 <br>
@@ -231,6 +231,8 @@
         4 4 <br>
         5 <br>
       </td>
+    </tr>
+    <tr>
       <td>
         <b>Q.15</b> <br>
         5 5 5 5 5 <br>
@@ -279,8 +281,6 @@
         E D <br>
         E <br>
       </td>
-    </tr>
-    <tr>
       <td>
         <b>Q.21</b> <br>
         A B C D E <br>
@@ -289,6 +289,8 @@
         D E <br>
         E <br>
       </td>
+    </tr>
+    <tr>
       <td>
         <b>Q.22</b> <br>
         E D C B A <br>
@@ -345,6 +347,8 @@
         B B B B <br>
         A A A A A <br>
       </td>
+    </tr>
+    <tr>
       <td>
         <b>Q.29</b> <br>
         A A A A A <br>
@@ -361,8 +365,6 @@
         B B <br>
         A <br>
       </td>
-    </tr>
-    <tr>
       <td>
         <b>Q.31</b> <br>
         \* * * * * <br>
@@ -403,6 +405,8 @@
         7 8 9 10 <br>
         11 12 13 14 15 <br>
       </td>
+    </tr>
+    <tr>
       <td>
         <b>Q.36</b> <br>
         15 <br>
@@ -441,8 +445,6 @@
         \+ - + - <br>
         \+ - + - + <br>
       </td>
-    </tr>
-    <tr>
       <td>
         <b>Q.41</b> <br>
         \+ <br>
@@ -459,6 +461,8 @@
         0 1 0 1 <br>
         1 0 1 0 1 <br>
       </td>
+    </tr>
+    <tr>
       <td>
         <b>Q.43</b> <br>
         0 1 0 1 0 <br>
