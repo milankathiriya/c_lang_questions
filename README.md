@@ -113,212 +113,212 @@
 ---
 
 ### Patterns
-Q.1
-1 2 3 4 5
-1 2 3 4 5
-1 2 3 4 5
-1 2 3 4 5
-1 2 3 4 5
+Q.1 <br>
+1 2 3 4 5 <br>
+1 2 3 4 5 <br>
+1 2 3 4 5 <br>
+1 2 3 4 5 <br>
+1 2 3 4 5 <br>
 
-Q.2
-1
-1 2
-1 2 3
-1 2 3 4
-1 2 3 4 5
+Q.2 <br>
+1 <br>
+1 2 <br>
+1 2 3 <br>
+1 2 3 4 <br>
+1 2 3 4 5 <br>
 
-Q.3
-5
-5 4
-5 4 3
-5 4 3 2
-5 4 3 2 1
+Q.3 <br>
+5 <br>
+5 4 <br>
+5 4 3 <br>
+5 4 3 2 <br>
+5 4 3 2 1 <br>
 
-Q.4
-1 2 3 4 5
-1 2 3 4
-1 2 3
-1 2
-1
+Q.4 <br>
+1 2 3 4 5 <br>
+1 2 3 4 <br>
+1 2 3 <br>
+1 2 <br>
+1 <br>
 
-Q.5
-5 4 3 2 1
-5 4 3 2
-5 4 3
-5 4
-5
+Q.5 <br>
+5 4 3 2 1 <br>
+5 4 3 2 <br>
+5 4 3 <br>
+5 4 <br>
+5 <br>
 
-Q.6
-1 2 3 4 5
-2 3 4 5
-3 4 5
-4 5
-5
+Q.6 <br>
+1 2 3 4 5 <br>
+2 3 4 5 <br>
+3 4 5 <br>
+4 5 <br>
+5 <br>
 
-Q.7
-5 4 3 2 1
-4 3 2 1
-3 2 1
-2 1
-1
+Q.7 <br>
+5 4 3 2 1 <br>
+4 3 2 1 <br>
+3 2 1 <br>
+2 1 <br>
+1 <br>
 
-Q.8
-1
-1 1
-1 1 1
-1 1 1 1
-1 1 1 1 1
+Q.8 <br>
+1 <br>
+1 1 <br>
+1 1 1 <br>
+1 1 1 1 <br>
+1 1 1 1 1 <br>
 
-Q.9
-5
-5 5
-5 5 5
-5 5 5 5
-5 5 5 5 5
+Q.9 <br>
+5 <br>
+5 5 <br>
+5 5 5 <br>
+5 5 5 5 <br>
+5 5 5 5 5 <br>
 
-Q.10
-1 1 1 1 1
-1 1 1 1
-1 1 1
-1 1
-1
+Q.10 <br>
+1 1 1 1 1 <br>
+1 1 1 1 <br>
+1 1 1 <br>
+1 1 <br>
+1 <br>
 
-Q.11
-5 5 5 5 5
-5 5 5 5
-5 5 5
-5 5
-5
+Q.11 <br>
+5 5 5 5 5 <br>
+5 5 5 5 <br>
+5 5 5 <br>
+5 5 <br>
+5 <br>
 
-Q.12
-1
-2 2
-3 3 3
-4 4 4 4
-5 5 5 5 5
+Q.12 <br>
+1 <br>
+2 2 <br>
+3 3 3 <br>
+4 4 4 4 <br>
+5 5 5 5 5 <br>
 
-Q.13
-5
-4 4
-3 3 3
-2 2 2 2
-1 1 1 1 1
+Q.13 <br>
+5 <br>
+4 4 <br>
+3 3 3 <br>
+2 2 2 2 <br>
+1 1 1 1 1 <br>
 
-Q.14
-1 1 1 1 1
-2 2 2 2
-3 3 3
-4 4
-5
+Q.14 <br>
+1 1 1 1 1 <br>
+2 2 2 2 <br>
+3 3 3 <br>
+4 4 <br>
+5 <br>
 
-Q.15
-5 5 5 5 5
-4 4 4 4
-3 3 3
-2 2
-1
+Q.15 <br>
+5 5 5 5 5 <br>
+4 4 4 4 <br>
+3 3 3 <br>
+2 2 <br>
+1 <br>
 
-Q.16
-A A A A A
-B B B B B
-C C C C C
-D D D D D
-E E E E E
+Q.16 <br>
+A A A A A <br>
+B B B B B <br>
+C C C C C <br>
+D D D D D <br>
+E E E E E <br>
 
-Q.17
-A
-A B
-A B C
-A B C D
-A B C D E
+Q.17 <br>
+A <br>
+A B <br>
+A B C <br>
+A B C D <br>
+A B C D E <br>
 
-Q.18
-E
-E D
-E D C
-E D C B
-E D C B A
+Q.18 <br>
+E <br>
+E D <br>
+E D C <br>
+E D C B <br>
+E D C B A <br>
 
-Q.19
-A B C D E
-A B C D
-A B C
-A B
-A
+Q.19 <br>
+A B C D E <br>
+A B C D <br>
+A B C <br>
+A B <br>
+A <br>
 
-Q.20
-E D C B A
-E D C B
-E D C
-E D
-E
+Q.20 <br>
+E D C B A <br>
+E D C B <br>
+E D C <br>
+E D <br>
+E <br>
 
-Q.21
-A B C D E
-B C D E
-C D E
-D E
-E
+Q.21 <br>
+A B C D E <br>
+B C D E <br>
+C D E <br>
+D E <br>
+E <br>
 
-Q.22
-E D C B A
-D C B A
-C B A
-B A
-A
+Q.22 <br>
+E D C B A <br>
+D C B A <br> 
+C B A <br>
+B A <br>
+A <br>
 
-Q.23
-A
-A A
-A A A
-A A A A
-A A A A A
+Q.23 <br>
+A <br>
+A A <br>
+A A A <br>
+A A A A <br>
+A A A A A <br>
 
-Q.24
-E
-E E
-E E E
-E E E E
-E E E E E
+Q.24 <br>
+E <br>
+E E <br>
+E E E <br>
+E E E E <br>
+E E E E E <br>
 
-Q.25
-A A A A A
-A A A A
-A A A
-A A
-A
+Q.25 <br>
+A A A A A <br>
+A A A A <br>
+A A A <br>
+A A <br>
+A <br>
 
-Q.26
-E E E E E
-E E E E
-E E E
-E E
-E
+Q.26 <br>
+E E E E E <br>
+E E E E <br>
+E E E <br>
+E E <br>
+E <br>
 
-Q.27
-A
-B B
-C C C
-D D D D
-E E E E E
+Q.27 <br>
+A <br>
+B B <br>
+C C C <br>
+D D D D <br>
+E E E E E <br>
 
-Q.28
-E
-D D
-C C C
-B B B B
-A A A A A
+Q.28 <br>
+E <br>
+D D <br>
+C C C <br>
+B B B B <br>
+A A A A A <br>
 
-Q.29
-A A A A A
-B B B B
-C C C
-D D
-E
+Q.29 <br>
+A A A A A <br>
+B B B B <br>
+C C C <br>
+D D <br>
+E <br>
 
-Q.30
-E E E E E
-D D D D
-C C C
-B B
-A
+Q.30 <br>
+E E E E E <br>
+D D D D <br>
+C C C <br>
+B B <br>
+A <br>
