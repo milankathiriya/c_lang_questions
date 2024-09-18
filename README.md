@@ -207,6 +207,160 @@
         5 5 <br>
         5 <br>
       </td>
+      <td>
+        **Q.12** <br>
+        1 <br>
+        2 2 <br>
+        3 3 3 <br>
+        4 4 4 4 <br>
+        5 5 5 5 5 <br>
+      </td>
+      <td>
+        **Q.13** <br>
+        5 <br>
+        4 4 <br>
+        3 3 3 <br>
+        2 2 2 2 <br>
+        1 1 1 1 1 <br>
+      </td>
+      <td>
+        **Q.14** <br>
+        1 1 1 1 1 <br>
+        2 2 2 2 <br>
+        3 3 3 <br>
+        4 4 <br>
+        5 <br>
+      </td>
+      <td>
+        **Q.15** <br>
+        5 5 5 5 5 <br>
+        4 4 4 4 <br>
+        3 3 3 <br>
+        2 2 <br>
+        1 <br>
+      </td>
+      <td>
+        **Q.16** <br>
+        A A A A A <br>
+        B B B B B <br>
+        C C C C C <br>
+        D D D D D <br>
+        E E E E E <br>
+      </td>
+      <td>
+        **Q.17** <br>
+        A <br>
+        A B <br>
+        A B C <br>
+        A B C D <br>
+        A B C D E <br>
+      </td>
+      <td>
+        **Q.18** <br>
+        E <br>
+        E D <br>
+        E D C <br>
+        E D C B <br>
+        E D C B A <br>
+      </td>
+      <td>
+        **Q.19** <br>
+        A B C D E <br>
+        A B C D <br>
+        A B C <br>
+        A B <br>
+        A <br>
+      </td>
+      <td>
+        **Q.20** <br>
+        E D C B A <br>
+        E D C B <br>
+        E D C <br>
+        E D <br>
+        E <br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        **Q.21** <br>
+        A B C D E <br>
+        B C D E <br>
+        C D E <br>
+        D E <br>
+        E <br>
+      </td>
+      <td>
+        **Q.22** <br>
+        E D C B A <br>
+        D C B A <br> 
+        C B A <br>
+        B A <br>
+        A <br>
+      </td>
+      <td>
+        **Q.23** <br>
+        A <br>
+        A A <br>
+        A A A <br>
+        A A A A <br>
+        A A A A A <br>
+      </td>
+      <td>
+        **Q.24** <br>
+        E <br>
+        E E <br>
+        E E E <br>
+        E E E E <br>
+        E E E E E <br>
+      </td>
+      <td>
+        **Q.25** <br>
+        A A A A A <br>
+        A A A A <br>
+        A A A <br>
+        A A <br>
+        A <br>
+      </td>
+      <td>
+        **Q.26** <br>
+        E E E E E <br>
+        E E E E <br>
+        E E E <br>
+        E E <br>
+        E <br>
+      </td>
+      <td>
+        **Q.27** <br>
+        A <br>
+        B B <br>
+        C C C <br>
+        D D D D <br>
+        E E E E E <br>
+      </td>
+      <td>
+        **Q.28** <br>
+        E <br>
+        D D <br>
+        C C C <br>
+        B B B B <br>
+        A A A A A <br>
+      </td>
+      <td>
+        **Q.29** <br>
+        A A A A A <br>
+        B B B B <br>
+        C C C <br>
+        D D <br>
+        E <br>
+      </td>
+      <td>
+        **Q.30** <br>
+        E E E E E <br>
+        D D D D <br>
+        C C C <br>
+        B B <br>
+        A <br>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -217,140 +371,6 @@
 
 
 
-
-
-**Q.12** <br>
-1 <br>
-2 2 <br>
-3 3 3 <br>
-4 4 4 4 <br>
-5 5 5 5 5 <br>
-
-**Q.13** <br>
-5 <br>
-4 4 <br>
-3 3 3 <br>
-2 2 2 2 <br>
-1 1 1 1 1 <br>
-
-**Q.14** <br>
-1 1 1 1 1 <br>
-2 2 2 2 <br>
-3 3 3 <br>
-4 4 <br>
-5 <br>
-
-**Q.15** <br>
-5 5 5 5 5 <br>
-4 4 4 4 <br>
-3 3 3 <br>
-2 2 <br>
-1 <br>
-
-**Q.16** <br>
-A A A A A <br>
-B B B B B <br>
-C C C C C <br>
-D D D D D <br>
-E E E E E <br>
-
-**Q.17** <br>
-A <br>
-A B <br>
-A B C <br>
-A B C D <br>
-A B C D E <br>
-
-**Q.18** <br>
-E <br>
-E D <br>
-E D C <br>
-E D C B <br>
-E D C B A <br>
-
-**Q.19** <br>
-A B C D E <br>
-A B C D <br>
-A B C <br>
-A B <br>
-A <br>
-
-**Q.20** <br>
-E D C B A <br>
-E D C B <br>
-E D C <br>
-E D <br>
-E <br>
-
-**Q.21** <br>
-A B C D E <br>
-B C D E <br>
-C D E <br>
-D E <br>
-E <br>
-
-**Q.22** <br>
-E D C B A <br>
-D C B A <br> 
-C B A <br>
-B A <br>
-A <br>
-
-**Q.23** <br>
-A <br>
-A A <br>
-A A A <br>
-A A A A <br>
-A A A A A <br>
-
-**Q.24** <br>
-E <br>
-E E <br>
-E E E <br>
-E E E E <br>
-E E E E E <br>
-
-**Q.25** <br>
-A A A A A <br>
-A A A A <br>
-A A A <br>
-A A <br>
-A <br>
-
-**Q.26** <br>
-E E E E E <br>
-E E E E <br>
-E E E <br>
-E E <br>
-E <br>
-
-**Q.27** <br>
-A <br>
-B B <br>
-C C C <br>
-D D D D <br>
-E E E E E <br>
-
-**Q.28** <br>
-E <br>
-D D <br>
-C C C <br>
-B B B B <br>
-A A A A A <br>
-
-**Q.29** <br>
-A A A A A <br>
-B B B B <br>
-C C C <br>
-D D <br>
-E <br>
-
-**Q.30** <br>
-E E E E E <br>
-D D D D <br>
-C C C <br>
-B B <br>
-A <br>
 
 **Q.31** <br>
 \* * * * * <br>
