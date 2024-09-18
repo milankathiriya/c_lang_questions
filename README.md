@@ -150,7 +150,7 @@
         1 <br>
       </td>
       <td>
-        **Q.5** <br>
+        <b>Q.5</b> <br>
         5 4 3 2 1 <br>
         5 4 3 2 <br>
         5 4 3 <br>
@@ -158,7 +158,7 @@
         5 <br>
       </td>
       <td>
-        **Q.6** <br>
+        <b>Q.6</b> <br>
         1 2 3 4 5 <br>
         2 3 4 5 <br>
         3 4 5 <br>
@@ -166,7 +166,7 @@
         5 <br>
       </td>
       <td>
-        **Q.7** <br>
+        <b>Q.7</b> <br>
         5 4 3 2 1 <br>
         4 3 2 1 <br>
         3 2 1 <br>
@@ -174,7 +174,7 @@
         1 <br>
       </td>
       <td>
-        **Q.8** <br>
+        <b>Q.8</b> <br>
         1 <br>
         1 1 <br>
         1 1 1 <br>
@@ -182,7 +182,7 @@
         1 1 1 1 1 <br>
       </td>
       <td>
-        **Q.9** <br>
+        <b>Q.9</b> <br>
         5 <br>
         5 5 <br>
         5 5 5 <br>
@@ -190,7 +190,7 @@
         5 5 5 5 5 <br>
       </td>
       <td>
-        **Q.10** <br>
+        <b>Q.10</b> <br>
         1 1 1 1 1 <br>
         1 1 1 1 <br>
         1 1 1 <br>
@@ -200,7 +200,7 @@
     </tr>
     <tr>
       <td>
-        **Q.11** <br>
+        <b>Q.11</b> <br>
         5 5 5 5 5 <br>
         5 5 5 5 <br>
         5 5 5 <br>
@@ -208,7 +208,7 @@
         5 <br>
       </td>
       <td>
-        **Q.12** <br>
+        <b>Q.12</b> <br>
         1 <br>
         2 2 <br>
         3 3 3 <br>
@@ -216,7 +216,7 @@
         5 5 5 5 5 <br>
       </td>
       <td>
-        **Q.13** <br>
+        <b>Q.13</b> <br>
         5 <br>
         4 4 <br>
         3 3 3 <br>
@@ -224,7 +224,7 @@
         1 1 1 1 1 <br>
       </td>
       <td>
-        **Q.14** <br>
+        <b>Q.14</b> <br>
         1 1 1 1 1 <br>
         2 2 2 2 <br>
         3 3 3 <br>
@@ -232,7 +232,7 @@
         5 <br>
       </td>
       <td>
-        **Q.15** <br>
+        <b>Q.15</b> <br>
         5 5 5 5 5 <br>
         4 4 4 4 <br>
         3 3 3 <br>
@@ -240,7 +240,7 @@
         1 <br>
       </td>
       <td>
-        **Q.16** <br>
+        <b>Q.16</b> <br>
         A A A A A <br>
         B B B B B <br>
         C C C C C <br>
@@ -248,7 +248,7 @@
         E E E E E <br>
       </td>
       <td>
-        **Q.17** <br>
+        <b>Q.17</b> <br>
         A <br>
         A B <br>
         A B C <br>
@@ -256,7 +256,7 @@
         A B C D E <br>
       </td>
       <td>
-        **Q.18** <br>
+        <b>Q.18</b> <br>
         E <br>
         E D <br>
         E D C <br>
@@ -264,7 +264,7 @@
         E D C B A <br>
       </td>
       <td>
-        **Q.19** <br>
+        <b>Q.19</b> <br>
         A B C D E <br>
         A B C D <br>
         A B C <br>
@@ -272,7 +272,7 @@
         A <br>
       </td>
       <td>
-        **Q.20** <br>
+        <b>Q.20</b> <br>
         E D C B A <br>
         E D C B <br>
         E D C <br>
@@ -282,7 +282,7 @@
     </tr>
     <tr>
       <td>
-        **Q.21** <br>
+        <b>Q.21</b> <br>
         A B C D E <br>
         B C D E <br>
         C D E <br>
@@ -290,7 +290,7 @@
         E <br>
       </td>
       <td>
-        **Q.22** <br>
+        <b>Q.22</b> <br>
         E D C B A <br>
         D C B A <br> 
         C B A <br>
@@ -298,7 +298,7 @@
         A <br>
       </td>
       <td>
-        **Q.23** <br>
+        <b>Q.23</b> <br>
         A <br>
         A A <br>
         A A A <br>
@@ -306,7 +306,7 @@
         A A A A A <br>
       </td>
       <td>
-        **Q.24** <br>
+        <b>Q.24</b> <br>
         E <br>
         E E <br>
         E E E <br>
@@ -314,7 +314,7 @@
         E E E E E <br>
       </td>
       <td>
-        **Q.25** <br>
+        <b>Q.25</b> <br>
         A A A A A <br>
         A A A A <br>
         A A A <br>
@@ -322,7 +322,7 @@
         A <br>
       </td>
       <td>
-        **Q.26** <br>
+        <b>Q.26</b> <br>
         E E E E E <br>
         E E E E <br>
         E E E <br>
@@ -330,7 +330,7 @@
         E <br>
       </td>
       <td>
-        **Q.27** <br>
+        <b>Q.27</b> <br>
         A <br>
         B B <br>
         C C C <br>
@@ -338,7 +338,7 @@
         E E E E E <br>
       </td>
       <td>
-        **Q.28** <br>
+        <b>Q.28</b> <br>
         E <br>
         D D <br>
         C C C <br>
@@ -346,7 +346,7 @@
         A A A A A <br>
       </td>
       <td>
-        **Q.29** <br>
+        <b>Q.29</b> <br>
         A A A A A <br>
         B B B B <br>
         C C C <br>
@@ -354,7 +354,7 @@
         E <br>
       </td>
       <td>
-        **Q.30** <br>
+        <b>Q.30</b> <br>
         E E E E E <br>
         D D D D <br>
         C C C <br>
@@ -364,7 +364,7 @@
     </tr>
     <tr>
       <td>
-        **Q.31** <br>
+        <b>Q.31</b> <br>
         \* * * * * <br>
         \* * * * * <br>
         \* * * * * <br>
@@ -372,7 +372,7 @@
         \* * * * * <br>
       </td>
       <td>
-        **Q.32** <br>
+        <b>Q.32</b> <br>
         \* <br>
         \* * <br>
         \* * * <br>
@@ -380,7 +380,7 @@
         \* * * * * <br>
       </td>
       <td>
-        **Q.33** <br>
+        <b>Q.33</b> <br>
         \* * * * * <br>
         \* * * * <br>
         \* * * <br>
@@ -388,7 +388,7 @@
         \* <br>
       </td>
       <td>
-        **Q.34** <br>
+        <b>Q.34</b> <br>
         1 2 3 4 5 <br>
         6 7 8 9 10 <br>
         11 12 13 14 15 <br>
@@ -396,7 +396,7 @@
         21 22 33 44 55 <br>
       </td>
       <td>
-        **Q.35** <br>
+        <b>Q.35</b> <br>
         1 <br>
         2 3 <br>
         4 5 6 <br>
@@ -404,7 +404,7 @@
         11 12 13 14 15 <br>
       </td>
       <td>
-        **Q.36** <br>
+        <b>Q.36</b> <br>
         15 <br>
         14 13 <br>
         12 11 10 <br>
@@ -412,7 +412,7 @@
         5 4 3 2 1 <br>
       </td>
       <td>
-        **Q.37** <br>
+        <b>Q.37</b> <br>
         1 2 3 4 5 <br>
         6 7 8 9 <br>
         10 11 12 <br>
@@ -420,21 +420,21 @@
         15 <br>
       </td>
       <td>
-        **Q.38** <br>
+        <b>Q.38</b> <br>
         1 <br>
         11 11 <br>
         121 121 121 <br>
         1331 1331 1331 1331 <br>
       </td>
       <td>
-        **Q.39** <br>
+        <b>Q.39</b> <br>
         1331 1331 1331 1331 <br>
         121 121 121 <br>
         11 11 <br>
         1 <br>
       </td>
       <td>
-        **Q.40** <br>
+        <b>Q.40</b> <br>
         \+ <br>
         \+ - <br>
         \+ - + <br>
@@ -444,7 +444,7 @@
     </tr>
     <tr>
       <td>
-        **Q.41** <br>
+        <b>Q.41</b> <br>
         \+ <br>
         \- - <br>
         \+ + + <br>
@@ -452,7 +452,7 @@
         \+ + + + + <br>
       </td>
       <td>
-        **Q.42** <br>
+        <b>Q.42</b> <br>
         1 <br>
         0 1 <br>
         1 0 1 <br>
@@ -460,7 +460,7 @@
         1 0 1 0 1 <br>
       </td>
       <td>
-        **Q.43** <br>
+        <b>Q.43</b> <br>
         0 1 0 1 0 <br>
         1 0 1 0 <br>
         0 1 0 <br>
@@ -468,7 +468,7 @@
         0 <br>
       </td>
       <td>
-        **Q.44** <br>
+        <b>Q.44</b> <br>
         @ <br>
         \# # <br>
         @ @ @ <br>
@@ -476,7 +476,7 @@
         @ @ @ @ @ <br>
       </td>
       <td>
-        **Q.45** <br>
+        <b>Q.45</b> <br>
         RW1 <br>
         RW2 RW2 <br>
         RW3 RW3 RW3 <br>
@@ -484,7 +484,7 @@
         RW5 RW5 RW5 RW5 RW5 <br>
       </td>
       <td>
-        **Q.46** <br>
+        <b>Q.46</b> <br>
         Akbar Birbal Akbar Birbal Akbar Birbal <br>
         Akbar Birbal Akbar Birbal <br>
         Akbar Birbal <br>
