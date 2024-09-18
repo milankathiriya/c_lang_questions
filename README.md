@@ -117,33 +117,33 @@
 <table>
   <tbody>
     <tr>
-      <td>1</td>
-      <td>2</td>
-      <td>3</td>
-    </tr>
-  </tbody>
-</table>
-
-**Q.1** <br>
+      <td>**Q.1** <br>
 1 2 3 4 5 <br>
 1 2 3 4 5 <br>
 1 2 3 4 5 <br>
 1 2 3 4 5 <br>
-1 2 3 4 5 <br>
-
-**Q.2** <br>
+1 2 3 4 5 <br></td>
+      <td>**Q.2** <br>
 1 <br>
 1 2 <br>
 1 2 3 <br>
 1 2 3 4 <br>
-1 2 3 4 5 <br>
-
-**Q.3** <br>
+1 2 3 4 5 <br></td>
+      <td>**Q.3** <br>
 5 <br>
 5 4 <br>
 5 4 3 <br>
 5 4 3 2 <br>
-5 4 3 2 1 <br>
+5 4 3 2 1 <br></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
 
 **Q.4** <br>
 1 2 3 4 5 <br>
