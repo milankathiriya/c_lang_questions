@@ -113,6 +113,17 @@
 ---
 
 ### Patterns
+
+<table>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
+
 **Q.1** <br>
 1 2 3 4 5 <br>
 1 2 3 4 5 <br>
