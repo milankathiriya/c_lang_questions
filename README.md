@@ -109,3 +109,216 @@
 7. Explain fputs() function in detail.
 8. Explain fwrite() function in detail.
 9. Explain fread() function in detail.
+
+---
+
+### Patterns
+Q.1
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+
+Q.2
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+
+Q.3
+5
+5 4
+5 4 3
+5 4 3 2
+5 4 3 2 1
+
+Q.4
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
+1
+
+Q.5
+5 4 3 2 1
+5 4 3 2
+5 4 3
+5 4
+5
+
+Q.6
+1 2 3 4 5
+2 3 4 5
+3 4 5
+4 5
+5
+
+Q.7
+5 4 3 2 1
+4 3 2 1
+3 2 1
+2 1
+1
+
+Q.8
+1
+1 1
+1 1 1
+1 1 1 1
+1 1 1 1 1
+
+Q.9
+5
+5 5
+5 5 5
+5 5 5 5
+5 5 5 5 5
+
+Q.10
+1 1 1 1 1
+1 1 1 1
+1 1 1
+1 1
+1
+
+Q.11
+5 5 5 5 5
+5 5 5 5
+5 5 5
+5 5
+5
+
+Q.12
+1
+2 2
+3 3 3
+4 4 4 4
+5 5 5 5 5
+
+Q.13
+5
+4 4
+3 3 3
+2 2 2 2
+1 1 1 1 1
+
+Q.14
+1 1 1 1 1
+2 2 2 2
+3 3 3
+4 4
+5
+
+Q.15
+5 5 5 5 5
+4 4 4 4
+3 3 3
+2 2
+1
+
+Q.16
+A A A A A
+B B B B B
+C C C C C
+D D D D D
+E E E E E
+
+Q.17
+A
+A B
+A B C
+A B C D
+A B C D E
+
+Q.18
+E
+E D
+E D C
+E D C B
+E D C B A
+
+Q.19
+A B C D E
+A B C D
+A B C
+A B
+A
+
+Q.20
+E D C B A
+E D C B
+E D C
+E D
+E
+
+Q.21
+A B C D E
+B C D E
+C D E
+D E
+E
+
+Q.22
+E D C B A
+D C B A
+C B A
+B A
+A
+
+Q.23
+A
+A A
+A A A
+A A A A
+A A A A A
+
+Q.24
+E
+E E
+E E E
+E E E E
+E E E E E
+
+Q.25
+A A A A A
+A A A A
+A A A
+A A
+A
+
+Q.26
+E E E E E
+E E E E
+E E E
+E E
+E
+
+Q.27
+A
+B B
+C C C
+D D D D
+E E E E E
+
+Q.28
+E
+D D
+C C C
+B B B B
+A A A A A
+
+Q.29
+A A A A A
+B B B B
+C C C
+D D
+E
+
+Q.30
+E E E E E
+D D D D
+C C C
+B B
+A
