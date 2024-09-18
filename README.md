@@ -116,7 +116,6 @@
 
 <table>
   <tbody>
-    <caption>Without Space Pattern</caption>
     <tr>
       <td>
         <b>Q.1</b> <br>
@@ -142,47 +141,51 @@
         5 4 3 2 <br>
         5 4 3 2 1 <br>
       </td>
+      <td>
+        <b>Q.4</b>b <br>
+        1 2 3 4 5 <br>
+        1 2 3 4 <br>
+        1 2 3 <br>
+        1 2 <br>
+        1 <br>
+      </td>
+      <td>
+        **Q.5** <br>
+        5 4 3 2 1 <br>
+        5 4 3 2 <br>
+        5 4 3 <br>
+        5 4 <br>
+        5 <br>
+      </td>
+      <td>
+        **Q.6** <br>
+        1 2 3 4 5 <br>
+        2 3 4 5 <br>
+        3 4 5 <br>
+        4 5 <br>
+        5 <br>
+      </td>
+      <td>
+        **Q.7** <br>
+        5 4 3 2 1 <br>
+        4 3 2 1 <br>
+        3 2 1 <br>
+        2 1 <br>
+        1 <br>
+      </td>
+      <td>
+        **Q.8** <br>
+        1 <br>
+        1 1 <br>
+        1 1 1 <br>
+        1 1 1 1 <br>
+        1 1 1 1 1 <br>
+      </td>
     </tr>
   </tbody>
 </table>
 
 
-
-
-**Q.4** <br>
-1 2 3 4 5 <br>
-1 2 3 4 <br>
-1 2 3 <br>
-1 2 <br>
-1 <br>
-
-**Q.5** <br>
-5 4 3 2 1 <br>
-5 4 3 2 <br>
-5 4 3 <br>
-5 4 <br>
-5 <br>
-
-**Q.6** <br>
-1 2 3 4 5 <br>
-2 3 4 5 <br>
-3 4 5 <br>
-4 5 <br>
-5 <br>
-
-**Q.7** <br>
-5 4 3 2 1 <br>
-4 3 2 1 <br>
-3 2 1 <br>
-2 1 <br>
-1 <br>
-
-**Q.8** <br>
-1 <br>
-1 1 <br>
-1 1 1 <br>
-1 1 1 1 <br>
-1 1 1 1 1 <br>
 
 **Q.9** <br>
 5 <br>
