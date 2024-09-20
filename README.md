@@ -491,5 +491,28 @@
         RW4 RW4 RW4 RW4 <br>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>Q.46</b> <br>
+        D P D P D P D P <br>
+        D P D P D P <br>
+        D P D P <br>
+        D P <br>
+      </td>
+      <td>
+        <b>Q.47</b> <br>
+        0 <br>
+        2 4 <br>
+        6 8 10 <br>
+        12 14 16 18 <br>
+      </td>
+       <td>
+        <b>Q.48</b> <br>
+        0 <br>
+        1 3 <br>
+        5 7 9 <br>
+        11 13 15 17 <br>
+      </td>
+    </tr>
   </tbody>
 </table>
