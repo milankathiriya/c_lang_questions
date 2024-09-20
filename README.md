@@ -524,7 +524,6 @@
       <td>
         <b>Q.50 (N to 1)</b> <br>
         where, N = User input <br>
-        * * * * * <br>
         * * * * <br>
         * * * <br>
         * * <br>
