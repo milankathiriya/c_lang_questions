@@ -508,10 +508,27 @@
       </td>
        <td>
         <b>Q.48</b> <br>
-             0 <br>
+        0 <br>
         1 3 <br>
         5 7 9 <br>
         11 13 15 17 <br>
+      </td>
+      <td>
+        <b>Q.49 (1 to N)</b> <br>
+        where, N = User input <br>
+        1 <br>
+        1 2 3 <br>
+        1 2 3 4 <br>
+        1 2 3 4 5 <br>
+      </td>
+      <td>
+        <b>Q.50 (N to 1)</b> <br>
+        where, N = User input <br>
+        * * * * * <br>
+        * * * * <br>
+        * * * <br>
+        * * <br>
+        * <br>
       </td>
     </tr>
   </tbody>
