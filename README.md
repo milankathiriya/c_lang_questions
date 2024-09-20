@@ -483,6 +483,13 @@
         # # # # <br>
         @ @ @ @ @ <br>
       </td>
+      <td>
+        <b>Q.45</b> <br>
+        RW1 <br>
+        RW2 RW2 <br>
+        RW3 RW3 RW3 <br>
+        RW4 RW4 RW4 RW4 <br>
+      </td>
     </tr>
   </tbody>
 </table>
